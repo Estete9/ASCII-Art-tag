@@ -1,0 +1,1 @@
+val lambda: (Int, Int) -> Int = { x, y -> if (x - y < 0) y else x }

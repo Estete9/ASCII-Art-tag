@@ -1,0 +1,14 @@
+type: hyperskill
+title: ASCII Text Signature
+language: English
+summary: "When learning a new programming language, we always have to figure out how\
+  \ to print text data. It is a simple and useful skill: you can print texts everywhere,\
+  \ even in the console. \r\n\r\nThere is only one problem: the text itself isn’t\
+  \ pretty enough for your taste. What if we try to add a little “make-up”? Or get\
+  \ very creative with fonts, draw awesome letters with other letters? \r\n\r\nLet’\
+  s try this out.<br/><br/>Learn more at <a href=\"https://hyperskill.org\">https://hyperskill.org/projects/71</a>"
+programming_language: Kotlin
+content:
+- ASCII Text Signature
+- Problems
+mode: Study

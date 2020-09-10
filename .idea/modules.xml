@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ASCII_Text_Signature.iml" filepath="$PROJECT_DIR$/.idea/modules/ASCII_Text_Signature.iml" group="ASCII_Text_Signature" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ASCII Text Signature/task/ASCII_Text_Signature-task.iml" filepath="$PROJECT_DIR$/.idea/modules/ASCII Text Signature/task/ASCII_Text_Signature-task.iml" group="ASCII_Text_Signature/ASCII_Text_Signature-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cause an exception/Problems-Cause_an_exception.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cause an exception/Problems-Cause_an_exception.iml" group="ASCII_Text_Signature/Problems-Cause_an_exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" group="ASCII_Text_Signature/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Function composition/Problems-Function_composition.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Function composition/Problems-Function_composition.iml" group="ASCII_Text_Signature/Problems-Function_composition" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Function composition (1)/Problems-Function_composition__1_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Function composition (1)/Problems-Function_composition__1_.iml" group="ASCII_Text_Signature/Problems-Function_composition__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Function generator/Problems-Function_generator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Function generator/Problems-Function_generator.iml" group="ASCII_Text_Signature/Problems-Function_generator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Max/Problems-Max.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Max/Problems-Max.iml" group="ASCII_Text_Signature/Problems-Max" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Not  predicate/Problems-Not__predicate.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Not  predicate/Problems-Not__predicate.iml" group="ASCII_Text_Signature/Problems-Not__predicate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Playing with time/Problems-Playing_with_time.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Playing with time/Problems-Playing_with_time.iml" group="ASCII_Text_Signature/Problems-Playing_with_time" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Polynomial/Problems-Polynomial.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Polynomial/Problems-Polynomial.iml" group="ASCII_Text_Signature/Problems-Polynomial" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Range multiplication/Problems-Range_multiplication.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Range multiplication/Problems-Range_multiplication.iml" group="ASCII_Text_Signature/Problems-Range_multiplication" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Strings as objects/Problems-Strings_as_objects.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Strings as objects/Problems-Strings_as_objects.iml" group="ASCII_Text_Signature/Problems-Strings_as_objects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="ASCII_Text_Signature/util" />
+    </modules>
+  </component>
+</project>

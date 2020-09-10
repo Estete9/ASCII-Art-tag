@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d9db81b-6923-41b5-aca1-05247dbd458c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1h02IlHqx0Btzjqxuh3jQRvNayP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems-Strings_as_objects" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ASCII_Text_Signature-task" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="signature.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.MainKt (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d9db81b-6923-41b5-aca1-05247dbd458c" name="Default Changelist" comment="" />
+      <created>1599133612099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599133612099</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599258607699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1599258607699" />
+    <state x="466" y="76" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1599750550384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="466" y="76" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599750550384" />
+    <state width="1491" height="353" key="GridCell.Tab.0.bottom" timestamp="1599771993937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="353" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599771993937" />
+    <state width="1491" height="353" key="GridCell.Tab.0.center" timestamp="1599771993937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="353" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599771993937" />
+    <state width="1491" height="353" key="GridCell.Tab.0.left" timestamp="1599771993937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="353" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599771993937" />
+    <state width="1491" height="353" key="GridCell.Tab.0.right" timestamp="1599771993937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="353" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599771993937" />
+    <state width="1491" height="259" key="GridCell.Tab.1.bottom" timestamp="1599764565940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599764565940" />
+    <state width="1491" height="259" key="GridCell.Tab.1.center" timestamp="1599764565940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599764565940" />
+    <state width="1491" height="259" key="GridCell.Tab.1.left" timestamp="1599764565940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599764565940" />
+    <state width="1491" height="259" key="GridCell.Tab.1.right" timestamp="1599764565940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599764565940" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599173624329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1599173624329" />
+    <state x="466" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1599771810185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="466" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1599771810185" />
+    <state x="426" y="189" key="run.anything.popup" timestamp="1599158021647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599158021647" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/ASCII Text Signature/task/src/signature/Main.kt</url>
+          <line>52</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

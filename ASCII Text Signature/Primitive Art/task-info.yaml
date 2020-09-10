@@ -1,0 +1,69 @@
+type: edu
+custom_name: stage1
+files:
+- name: src/signature/Main.kt
+  visible: true
+  text: |
+    package signature
+
+    fun main() {
+        println("Hello, World!")
+    }
+  learner_created: false
+- name: test/GeneratorTest.java
+  visible: false
+  text: |
+    import org.hyperskill.hstest.stage.StageTest;
+    import signature.MainKt;
+
+    public abstract class GeneratorTest<T> extends StageTest<T> {
+        public GeneratorTest() {
+            super(MainKt.class);
+        }
+    }
+  learner_created: false
+- name: test/Task1Test.kt
+  visible: false
+  text: |2+
+
+    import org.hyperskill.hstest.testcase.CheckResult
+
+
+    class Task1Test : GeneratorTest<Unit>() {
+
+        override fun generate() = listOf(
+                testCase(Unit, "")
+        )
+
+        override fun check(reply: String, clue: Unit): CheckResult {
+            val badge = " _____________\n" +
+                    "| Hyper Skill |\n" +
+                    " •••••••••••••"
+
+            if (reply.trim('\n', ' ') != badge.trim(' ')) {
+                return CheckResult.wrong(
+                        "Your output is wrong! " +
+                                "See example #1.")
+            } else {
+                return CheckResult.correct()
+            }
+
+        }
+    }
+
+  learner_created: false
+- name: test/TestCaseHelpers.kt
+  visible: false
+  text: |
+    import org.hyperskill.hstest.testcase.TestCase
+
+
+    /** Default testCase. */
+    fun <T> testCase(attach: T, input: String) = TestCase<T>().apply {
+        setInput(input)
+        setAttach(attach)
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/projects/71/stages/390/implement
+status: Solved
+record: 2

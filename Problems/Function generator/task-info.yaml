@@ -1,0 +1,14 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // TODO: provide three functions here
+
+    fun generate(functionName: String): (Int) -> Int {
+        // TODO: provide implementation here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6000
+status: Solved
+record: -1

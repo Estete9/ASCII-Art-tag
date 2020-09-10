@@ -1,0 +1,1 @@
+val lambda: (Long, Long) -> Long = { start: Long, end: Long -> start.rangeTo(end).reduce { acc, l -> acc * l } }
